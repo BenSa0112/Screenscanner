@@ -18,5 +18,5 @@ Keeps only the needed digits
 ![](https://github.com/BenSa0112/Screenscanner/blob/main/images/1_2.png)
 
 
-4.
+4. (final step)
 Pytesseract detects with a trained model all digits in the last picture and converts it into a string. 
