@@ -19,4 +19,5 @@ Keeps only the needed digits
 
 
 4. (final step)
+
 Pytesseract detects with a trained model all digits in the last picture and converts it into a string. 
